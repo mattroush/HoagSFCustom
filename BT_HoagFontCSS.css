@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "CircularBold";
+    src: url("https://github.com/mattroush/HoagSFCustom/blob/756f3637ca21b2ae50bcf745647b77c5ef8a1890/fonts/CircularXX-Bold.otf")
+}
+
+@font-face {
+    font-family: "CircularMedium";
+    src: url("https://github.com/mattroush/HoagSFCustom/blob/756f3637ca21b2ae50bcf745647b77c5ef8a1890/fonts/CircularXX-Medium.otf")
+}
+
+@font-face {
+    font-family: "CircularBook";
+    src: url("https://github.com/mattroush/HoagSFCustom/blob/756f3637ca21b2ae50bcf745647b77c5ef8a1890/fonts/CircularXX-Book.otf")
+}
